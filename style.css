@@ -1,0 +1,309 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+   
+}
+.one{
+    text-align:right;
+    margin-right: 100px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.two{
+    text-align: right;
+    font-weight: bold;
+    margin-right: 80px;
+    font-size: large;
+    font-size: 30px;
+}
+.three{
+    text-align: right;
+    font-size: large;
+    font-style: italic;
+    margin-right: 150px;
+    font-size: 50px;
+}
+.thee1{
+    text-align: right;
+    font-size: large;
+    font-style: italic;
+    margin-right: 120px;
+    font-size: 50px;
+}
+.thee2{
+    text-align: right;
+    font-size: large;
+    font-style: italic;
+    margin-right: 130px;
+    font-size: 50px;
+}
+.thee3{
+    text-align: right;
+    font-size: large;
+    font-style: italic;
+    margin-right: 160px;
+    font-size: 50px;
+}
+.thee4{
+    text-align: right;
+    font-size: large;
+    font-style: italic;
+    margin-right: 120px;
+    font-size: 50px;
+}
+
+
+
+.btn{
+    text-align: right;
+   
+    margin-left: 73%;
+    margin-bottom: 15%;
+    background-color: transparent;
+    font-size: 30px;
+}
+.back{
+    background-image: url('a1.jpg'); /* Replace 'your-image-url.jpg' with the path to your image */
+    background-size: 800px 140%;
+    background-position:left top;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+   
+    background-color: rosybrown;
+    height: 100vh;
+}
+.second{
+    background-color: rgb(239, 161, 161);
+    height: 100vh;
+}
+.four{
+    text-align: center;
+    color: brown;
+}
+.five{
+    text-align: center;
+    color: rgb(55, 13, 13) ;
+}
+.six{
+    text-align: center;
+   
+    margin-left: 43%;
+    margin-bottom: 20%;
+    background-color: transparent;
+    font-size: 30px;
+}
+.naf{
+    width: 60%;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+    
+}
+.nuf{
+    width: 60%;
+    height: 50%;
+    margin-left: 20%;
+    margin-top: 10%;
+    
+}
+.nif{
+    width: 60%;
+    height: 50%;
+    margin-left: 30%;
+    margin-top: 10%;
+
+}
+.seven1{
+    margin-left: 5%;
+    margin-bottom: 10%;
+
+}
+.seven2{
+   
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.seven3{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.ab{
+    margin-left: 15%;
+    color: brown;
+}
+.bc{
+    margin-left: 15%;
+    margin-right: 27%;
+}
+.seven{
+    display: flex;
+    background-color:white;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 20%;
+    height: 100vh;
+ }
+
+.seven div{
+    background-color:white;
+    align-items: center;
+    margin: 10px;
+    width: 50%;
+    padding: 10px;
+}
+.cd{
+    margin-left: 30%;
+    color: brown; 
+
+}
+.de{
+    margin-left: 25%;
+}
+.ef{
+    margin-left: 30%;
+    color: brown;   
+}
+.fg{
+    margin-left: 25%;
+}
+.back1{
+    background-image: url(a7.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 800px 140%;
+    margin: 0%;
+    padding: 0%;
+    background-color: rosybrown;
+    margin-bottom: 15%;
+    height: 100vh;
+}
+.text1{
+    margin-bottom: 15%;
+}
+.one1{
+    text-align:right;
+    margin-right: 120px;
+    font-weight: bold;
+    font-size: 50px; 
+    color: brown;
+   margin-top: 10%;
+   
+}
+.two1{
+    text-align: right;
+    margin-right: 8%;
+    font-size: 20px;
+    color:black;
+}
+.three1{
+    text-align: right;
+    margin-right: 8%;
+    font-size: 20px;
+    color:brown;
+
+}
+.four1{
+    text-align: right;
+    margin-right: 10%;
+    font-size: 20px;
+    color:black;
+
+}
+.four2{
+    text-align: right;
+    margin-right: 10%;
+    font-size: 20px;
+    color:black;
+
+}
+.four3{
+    text-align: right;
+    margin-right: 10%;
+    font-size: 20px;
+    color:black;
+
+}
+.four4{
+    text-align: right;
+    margin-right: 10%;
+    font-size: 20px;
+    color:black;
+    margin-bottom: 8%;
+
+}
+.three11{
+    text-align: right;
+    margin-right: 4%;
+    font-size: 20px;
+    color:brown;
+
+}
+.ten{
+   display: flex;
+   background-color: white;
+   align-content: center;
+   justify-content: center;
+   margin-bottom: 10%;
+}
+.ten div{
+    background-color: white;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+
+}
+.nine{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    
+    height: 20vh;
+}
+.ten1{
+    margin-top: 10%;
+    font-size: 25px;
+}
+.ten2{
+    margin-top: 10%;
+    font-size: 25px;
+}
+.ten3{
+    margin-top: 10%;
+    font-size: 25px;
+}
+.back3{
+    background-color: lightpink;
+    margin-bottom: 80%;
+    height: 100vh;
+}
+.eleven{
+    display: flex;
+    background-color: lightpink;
+    align-content: center;
+    justify-content: center;
+   
+}
+.eleven div{
+    background-color: lightpink;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+}
+.eleven1{
+    margin-top: -20%;
+    
+}
+.eleven2{
+   margin-bottom: -20%;
+    
+}
+.ico{
+    font-size: 30px;
+    margin-top: 90%;
+    text-align: right;
+    margin-right: 5%;
+}
